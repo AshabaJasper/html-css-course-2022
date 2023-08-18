@@ -39,4 +39,10 @@ button {
   padding-bottom: 8px;
   padding-left: 15px;
   padding-right: 15px;
+  cursor: pointer;
+}
+button:hover{
+  color: rgb(120, 82, 178);
+  background-color: aliceblue;
+  opacity: 0.9;
 }

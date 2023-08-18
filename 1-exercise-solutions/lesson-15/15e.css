@@ -14,9 +14,10 @@ body {
 }
 
 .promotion {
-  position: absolute;
+  position:absolute;
   top: 10px;
   right: 0px;
+  left: 20px;
   background-color: black;
   color: white;
   font-family: Arial;

@@ -17,6 +17,7 @@ p {
   height: 200px;
   object-fit: cover;
   margin-bottom: 12px;
+
 }
 
 .name {
@@ -27,7 +28,7 @@ p {
 }
 
 .mutual-friends-row {
-  margin-left: 8px;
+  margin-left: px;
   margin-bottom: 10px;
 }
 
